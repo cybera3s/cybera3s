@@ -52,7 +52,8 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybera3s&show_icons=true&theme=dark&count_private=true&hide=prs,issues)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybera3s&langs_count=15&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybera3s&langs_count=15&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybera3s&show_icons=true&theme=dark)
+
