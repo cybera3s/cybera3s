@@ -4,9 +4,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/cybera3s">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn Badge"/>
-  </a>
+  <h3>Connect with me:</h3>
+    <p>
+        <a href="https://www.linkedin.com/in/cybera3s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/s.sajadsafa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+      </p>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=cybera3s&style=flat-square&color=blue" alt=""/>
@@ -24,6 +26,7 @@
 ### :man_technologist: About Me :
 I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
+- :star: I am currentlly learning Vue JS 3 , GO lang
 - :zap: In my free time, I read tech articles and learn new stuffs
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cybera3s)
@@ -51,6 +54,7 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <hr>
 
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cybera3s&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybera3s&show_icons=true&theme=dark&count_private=true&hide=prs,issues)
   
