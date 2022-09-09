@@ -19,7 +19,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="100">](https://www.mongodb.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-plain-wordmark.svg" alt="redis" height="100">](https://redis.io/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg" alt="docker" height="100">](https://www.docker.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="100">](https://golang.org/doc/)
 <hr>
 
 ### :man_technologist: About Me :
